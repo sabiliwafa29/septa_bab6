@@ -1,4 +1,4 @@
-import * as THREE from '../ch5_ex4/modules/three.module.js';
+import * as THREE from './modules/three.module.js';
 import {VRButton} from './VRButton.js';
 
 var gl, cube, sphere, light, camera, scene, canvas, glContext;
